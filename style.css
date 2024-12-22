@@ -1,0 +1,87 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color:#AFEEEE ;
+    padding: 7px;
+    border-radius: 10px;
+}
+
+.party {
+    background-color: #D3D3D3;
+  border-radius: 3px;
+  text-align: center;
+  color: #8B008B;  
+}
+
+.colorone {
+   color: #006400;
+   border-bottom: 3px solid  #708090;
+   width: 90px; 
+}
+
+.colortwo {
+    border: 6px solid #7B68EE;
+    margin: 10px;
+}
+
+.colorthree {
+  border: 6px solid #7B68EE;
+    margin: 10px;  
+}
+
+.one {
+   color:  #0e0ecb;
+   border: 3px solid blue;
+   padding: 2px;
+   border-radius: 5px;
+}
+
+.two {
+    color: white;
+    background-color: #0e0ecb;
+    padding: 3px;
+   border-radius: 5px;
+}
+
+.three {
+    color: white;
+    background-color: #0e0ecb;
+    padding: 3px;
+   border-radius: 5px; 
+}
+
+.four {
+     color: white;
+    background-color: #0e0ecb;
+    padding: 3px;
+   border-radius: 5px;
+}
+
+.fireworks {
+    background-color:#90EE90 ;
+}
+
+.petarda {
+background-color:#90EE90;
+}
+
+.pho {
+    background-color:#90EE90 ;
+}
+
+.ball {
+    background-color:#90EE90 ;
+}
+
+.painter {
+    border: 2px solid lightblue;
+    border-radius: 10px;
+    margin: 7px;
+}
+
+.lia {
+    color:blue;
+    font-size: 30px;
+}
